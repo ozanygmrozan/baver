@@ -1,0 +1,19 @@
+[{
+    "id": 1,
+    "icon": "pe-7s-smile",
+    "content": "Kendi yönetim görevlerine bağlı kişiler.",
+    "value": "2400"
+},
+{
+    "id": 2,
+    "icon": "pe-7s-portfolio",
+    "content": "Tamamlandığı onaylanan imzalı projeler!",
+    "value": "133"
+},
+{
+    "id": 3,
+    "icon": "pe-7s-medal",
+    "content": "Tasarım projeleri için uluslararası ödüller ve kupalar.",
+    "value": "46"
+}
+]

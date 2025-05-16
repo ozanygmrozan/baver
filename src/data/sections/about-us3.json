@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "image1": "https://eniyikurs.net/2239/images/-642e0cf167e04dee8b7fae3df8421f9f.jpg",
+  "image2": "https://img.favpng.com/1/1/1/graphic-design-portable-network-graphics-logo-clip-art-png-favpng-HaMJGFA5VbPaD5bwcXJjR9kgb.jpg",
+  "exp": {
+    "nmb": 10,
+    "name": "Yılların Deneyimi"
+  },
+  "title": { "first": "Sınırsız Beceri", "second": "SüperProjeler için." },
+  "content": {
+    "first": "Markalaşma artık yalnızca görsel çekicilikle ilgili değil (veya bir önceki makalemde verildiği gibi elmalı turta örneğindeki kiraz).",
+    "second": "Küçük ve büyük markalar için yaratıcı çözümler geliştiriyor, özgün ürün kimlikleri oluşturuyor ve çok daha fazlasını yapıyoruz."
+  },
+  "smallTitle": "About Us"
+}

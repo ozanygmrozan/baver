@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Grafik Tasarım",
+    "secTex": "Çok güzel grafik tasarımları yapıyoruz",
+    "image": "https://userscontent2.emaze.com/images/64c4f318-2173-4075-b5be-335d9e1eb428/ca6ba8f8-79ba-46ef-82fe-358cf8cdc91c.jpg",
+    "slug": "Çok güzel grafik tasarımları yapıyoruz"
+  },
+  {
+    "id": 2,
+    "title": "İnstegram Postları Yapıyoruz",
+    "secTex": "İnstegram Post ve Takip Yapiyoruz",
+    "image": "https://i.pinimg.com/originals/c9/56/37/c956375c5c91c2ae0b9c13c0997b7fd9.jpg",
+    "slug": "/project-details2/project-details2-dark"
+  },
+  {
+    "id": 3,
+    "title": "Logo",
+    "secTex": "Bir sitenin simgesi olacak Logoları Yapıyoruz",
+    "image": "https://prekrasnaya.com/wp-content/uploads/2021/08/0-1.jpeg",
+    "slug": "/project-details2/project-details2-dark"
+  },
+  {
+    "id": 4,
+    "title": "photoshop",
+    "secTex": "Bir resim bin kelimeye bedeldir, ancak doğru düzenlenmiş bir resim binlerce duyguyu ifade edebilir.",
+    "image": "https://www.solutionsplayer.com/wp-content/uploads/2021/01/Homework-Graphic-Design-Bootcamp-FB-Cover.jpg",
+    "slug": "/project-details2/project-details2-dark"
+  }
+]

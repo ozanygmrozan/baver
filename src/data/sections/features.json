@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "pe-7s-paint-bucket",
+        "title": "Wep Site Logo tasarımı",
+        "content": "Farklı ekran boyutlarına uygunluğu test edilmiş ve onaylanmış bir tasarım."
+    },
+    {
+        "id": 2,
+        "icon": "pe-7s-phone",
+        "title": "İnstagram Postu",
+        "content": "Yaratıcılığımızın sınırlarını zorlamaya devam ediyoruz! Profilimizi ziyaret edin ve markamızın renkli dünyasına adım atın."
+    },
+    {
+        "id": 3,
+        "icon": "pe-7s-display1",
+        "title": "Grafik Tasarım",
+        "content": "Görsel dünyamıza hoş geldiniz! Burada, her piksel bir hikaye anlatır, her renk bir duygu ifade eder. Grafik tasarımın büyülü dünyasında sizleri ağırlamaktan mutluluk duyuyoruz."
+    },
+    {
+        "id": 4,
+        "icon": "pe-7s-diskette",
+        "title": "Grafik Tasarım",
+        "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+    }
+]

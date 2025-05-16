@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "smallTitle": "Anasayfa",
+  "title": "Bilgiler",
+  "content": "Biz, uzmanlıkları bir araya getiren bir ekip olarak, her biri kendi alanında deneyimli ve tutkulu profesyonellerden oluşuyoruz. Sizlere en iyi hizmeti sunabilmek adına bir araya geldik ve her bir projeye özel bir dokunuş katıyoruz.",
+  "image": "https://www.texturex.com/wp-content/uploads/2018/07/print-graphic-design.jpeg",
+  "stauts": [
+    { "id": 1, "number": "3", "letter": "Boyutlu", "stautsName": "Grafik" }
+  ]
+}
